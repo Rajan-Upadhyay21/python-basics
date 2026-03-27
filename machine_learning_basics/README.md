@@ -17,3 +17,4 @@ This folder covers the basic workflow of machine learning, including:
 - clustering basics
 
 The programs in this folder are designed to build a strong foundation in machine learning before moving into advanced topics such as feature engineering, hyperparameter tuning, ensemble learning, deep learning, and neural networks.
+These programs move beyond just training single models and introduce important machine learning workflow concepts such as preprocessing, feature scaling, validation, dimensionality reduction, pipelines, and hyperparameter tuning. The folder is designed to show both foundational ML knowledge and practical model-building workflow in Python.
